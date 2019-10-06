@@ -1,0 +1,59 @@
+body{
+	font-weight: 600;
+	font-family: Montserrat;
+	text-align: center;	
+}
+
+.b1{
+	position: absolute;
+	left: 750px;
+	top: 50px;
+	width: 400px;
+	height: 600px;
+	box-shadow: 0 0 15px black;
+}
+
+.pro{
+	padding-top: 35px;
+	text-transform: uppercase;
+	color: #00db89;
+	font-weight: 800;
+	font-size: 15pt;
+}
+
+.uc, .cc{
+	padding-top: 10px;
+	font-size:10pt;
+	color: gray;
+}
+
+.p49{
+	font-weight: 700;
+	font-size: 50pt;
+}
+
+.cc{
+	text-transform: capitalize;
+}
+
+.signup{
+	position: absolute;
+	border:1px solid #00db89;
+	background: #00db89;
+	width: 150px;
+	height: 40px;
+	left: 125px;
+	top: 525px;
+}
+
+.href{
+	position: absolute;
+	text-decoration: none;
+	font-size: 15pt;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+	right: 22px;
+	top: 8px;
+}		
